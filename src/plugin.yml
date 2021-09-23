@@ -1,0 +1,5 @@
+name: Observer Remover
+version: 1.0
+author: quirple
+main: me.elliottleow.antiObservers
+description: Simple plugin that does not allow observers to be placed and removes them from inventories.
